@@ -1,0 +1,46 @@
+{
+  "id": "xingfu_deyongqi",
+  "title": "幸福的勇气：\"自我启发之父\"阿德勒的哲学课2",
+  "author": "岸见一郎、古贺史健",
+  "category": "psyche",
+  "audio_dir": "xingfu_deyongqi",
+  "repo": "wilson2000go/xingfu-deyongqi-audiobook",
+  "tracks": [
+    {
+      "index": 1,
+      "title": "序章 人们误解了阿德勒思想",
+      "file": "audio/xingfu_deyongqi/01_序章_人们误解了阿德勒思想.mp3",
+      "duration": 465
+    },
+    {
+      "index": 2,
+      "title": "第一章 可恶的他人可怜的自己",
+      "file": "audio/xingfu_deyongqi/02_第一章_可恶的他人可怜的自己.mp3",
+      "duration": 673
+    },
+    {
+      "index": 3,
+      "title": "第二章 为何要否定赏罚",
+      "file": "audio/xingfu_deyongqi/03_第二章_为何要否定赏罚.mp3",
+      "duration": 902
+    },
+    {
+      "index": 4,
+      "title": "第三章 由竞争原理到协作原理",
+      "file": "audio/xingfu_deyongqi/04_第三章_由竞争原理到协作原理.mp3",
+      "duration": 654
+    },
+    {
+      "index": 5,
+      "title": "第四章 付出然后才有收获",
+      "file": "audio/xingfu_deyongqi/05_第四章_付出然后才有收获.mp3",
+      "duration": 751
+    },
+    {
+      "index": 6,
+      "title": "第五章 选择爱的人生",
+      "file": "audio/xingfu_deyongqi/06_第五章_选择爱的人生.mp3",
+      "duration": 833
+    }
+  ]
+}
